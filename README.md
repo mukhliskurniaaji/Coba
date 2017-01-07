@@ -1,3 +1,3 @@
 # Git
 
-Ini contoh penggunaan Git.
+Ini adalah sebuah contoh penggunaan Git.
